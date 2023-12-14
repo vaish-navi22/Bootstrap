@@ -1,0 +1,83 @@
+
+
+body{
+    font-family:'Oswald',sans-serif;
+}
+
+.nav-custom{
+    background-color: #79425e;
+    color:white;
+}
+
+.custom-font-color{
+    color:white;
+
+}
+
+.custom-font-color:hover{
+    color:black;
+}
+
+.custom-jumbotron{
+    background-image: url('../projectimage/image3.jpg');
+    background-position: center;
+    background-size: cover;
+    color:black;
+}
+.about-solid{
+    height:400px;
+    background-color: #79425e;
+    color:black;
+    padding:100px 50px 100px 50px;
+
+    
+}
+
+#right-1{
+    height:400px;
+    background-image: url(../projectimage/image2.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+#left-1{
+    height:400px;
+    background-image: url(../projectimage/image4.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+#right-2{
+    height:400px;
+    background-image: url(../projectimage/image1.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+
+
+#spacing{
+    margin-top: 30px;;
+}
+
+.custom-padding{
+    padding-bottom:20px;
+}
+
+.custom-footer{
+    margin-top:50px;
+    height:50px;
+    background-color:black;
+    color:whitesmoke;
+
+}
+
+#contact-img{
+    background-image: url("../projectimage/design.jpg");
+    background-position: center;
+    background-size: cover;
+    padding:30px 60px;
+    margin-top:40px;
+    color:white;
+}
+
